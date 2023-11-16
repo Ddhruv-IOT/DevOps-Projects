@@ -1,5 +1,2 @@
 # devOps
-Docker 
-Docker Compose 
-Grafana Config
-Prom Config
+WILL START UPLOADING MY DEVOPS PROJECTS FILES SOON
